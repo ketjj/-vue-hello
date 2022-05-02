@@ -13,6 +13,7 @@ const app = new Vue({
 
   data: {
     message: 'Hello!',
+    image: "https://www.rollingstone.it/wp-content/uploads/2020/07/la-citt%C3%A0-incantata.jpg"
   },
 
 
